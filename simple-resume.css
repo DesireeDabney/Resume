@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin:auto;
+    width: 60%;
+    background-color: #f4f4f4;  
+}
+
+.container{
+    background-color: white;
+    padding: 30px;
+    margin: 15px;
+    box-shadow: 1px 2px 15px rgb(183, 183, 183);
+}
+
+.skills-list{
+    list-style-type: none;
+    padding: 0;
+}
+
+header, .contact-info{
+    text-align: center;
+}
+
+hr{
+    background-color: black;
+    height: 2px;
+}
+
+.job-date{
+    color:#666;
+}
+
+.job-info{
+    margin: 15px;
+    padding: 5px;
+}
+
+.job-info li{
+    padding: 5px;
+}
